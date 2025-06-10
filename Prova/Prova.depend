@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1749043581 source:/home/vito/Scrivania/Code::Blocks/Prova/main.cpp
+	<iostream>
+	<string>
+

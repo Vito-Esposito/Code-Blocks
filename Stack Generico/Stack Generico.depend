@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1749157138 source:/home/vito/Scrivania/Code::Blocks/Stack Generico/main.cpp
+	<iostream>
+	"stack.h"
+
+1749161934 /home/vito/Scrivania/Code::Blocks/Stack Generico/stack.h
+	<iostream>
+

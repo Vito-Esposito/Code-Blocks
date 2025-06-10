@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1749152906 source:/home/vito/Scrivania/Code::Blocks/Stack/Stack.cpp
+	<iostream>
+	"Stack.h"
+
+1749154569 /home/vito/Scrivania/Code::Blocks/Stack/Stack.h
+
+1749153899 source:/home/vito/Scrivania/Code::Blocks/Stack/main.cpp
+	<iostream>
+	"Stack.h"
+
