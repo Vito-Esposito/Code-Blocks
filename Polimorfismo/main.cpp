@@ -1,5 +1,7 @@
 #include <iostream>
 
+using namespace std;
+
 // ===== CLASSE BASE =====
 class Animale {
 public:
@@ -63,6 +65,9 @@ int main() {
     faiVerso(a1);  // Il cane abbaia.
     faiVerso(a2);  // Il gatto miagola.
     faiVerso(a3);  // Il pappagallo parla.
+
+    cout << endl;
+    a1->verso();
 
     // Libero la memoria
     delete a1;
